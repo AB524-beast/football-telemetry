@@ -1,0 +1,35 @@
+{
+  "player01": {
+    "risk": 0.067
+  },
+  "player02": {
+    "risk": 0.247
+  },
+  "player03": {
+    "risk": 0.045
+  },
+  "player04": {
+    "risk": 0.121
+  },
+  "player05": {
+    "risk": 0.445
+  },
+  "player06": {
+    "risk": 0.049
+  },
+  "player07": {
+    "risk": 0.015
+  },
+  "player08": {
+    "risk": 0.666
+  },
+  "player09": {
+    "risk": 0.086
+  },
+  "player10": {
+    "risk": 0.044
+  },
+  "player11": {
+    "risk": 0.085
+  }
+}
